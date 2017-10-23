@@ -2,7 +2,7 @@
 
 *Specifications for [@Devil_Homura](https://twitter.com/Devil_Homura)*
 
-「悪魔は人の心に棲んでいる。形のないその存在は魂を貶め、脅かし、そして喰らい尽くす。
+「悪魔は人の心に棲んでいる。形のないその存在は魂を貶め、脅かし、そして喰らい尽くす。  
 　諦めたはずの想いが生んだ呪いはやがて深淵から手を伸ばし、獲物を水底へと引きずり込む。あなたのこともよく知っているわ、美樹さやか。自分の中の闇にすら打ち勝てずにいるあなたに、この私を倒せるのかしら？」
 
 <img src="https://rp.zweivogel.org/images/Homu_by_cccpo_resized.png" alt="Devil Homura" width="408" />
