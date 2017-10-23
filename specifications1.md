@@ -2,7 +2,7 @@
 
 *Specifications for [@Devil_Homura](https://twitter.com/Devil_Homura)*
 
-　悪魔の紡ぐ、春の微睡みにも似た甘い夢。偽りのヴェールに隠された真実はいつも残酷だけれど、日常と非日常の繰り返しに何の疑問も違和感も抱かなければ終末の日まで幸せに過ごすこともできる。
+　悪魔の紡ぐ、春の微睡みにも似た甘い夢。偽りのヴェールに隠された真実はいつも残酷だけれど、日常と非日常の繰り返しに何の疑問も違和感も抱かなければ終末の日まで幸せに過ごすこともできる。  
 　あとは何もかもあなたたち次第──神も救いもない世界でどこまで頑張れるか、見せてもらうわよ。
 
 <img src="https://rp.zweivogel.org/images/Homu_by_cccpo_resized.png" alt="Devil Homura" width="408" />
