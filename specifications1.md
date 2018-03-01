@@ -79,4 +79,5 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 
-(Since October 26, 2013 and last updated on February 28, 2018）
+Since October 26, 2013 and last updated on March 2, 2018.
+The responsibility for the wording of this RP account and specifications lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw).
