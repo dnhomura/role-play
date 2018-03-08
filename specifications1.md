@@ -46,7 +46,7 @@
 * 本来の関係を超えた馴れ合い、おふざけなどの、崩壊に繋がりかねない絡みは固くお断り。
 * 一度の返信が複数ツイートにわたる場合は、連鎖リプライを強く推奨。やり方についてはお問い合わせを。
 * 会話が終了した、返答に困った、あるいは続けるに値しないと判断した時点で花弁を投げて終了を宣言する。
-* 戦闘対応、魔法少女形態または悪魔形態での対戦。描写は三人称視点。相手は同作限定で、長文の戦闘ロルに慣れていることと、ルールやマナーを弁えていることが条件。
+* 戦闘対応、魔法少女形態または悪魔形態での対戦。三人称一元視点。相手は同作限定で、長文の戦闘ロルに慣れていることと、ルールやマナーを弁えていることが条件。
 * 英語対応、外国人フォロワー向け。また、描写中の使い魔の台詞にはドイツ語を使用。
 * 部屋は常時開放、ノック不要。雑談や相談などお気軽に。
 
@@ -80,4 +80,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications were last updated on March 7, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), leader of a doujin circle called DrFdL.
+The above specifications were last updated on March 9, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), leader of a doujin circle called DrFdL.
