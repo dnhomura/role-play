@@ -52,7 +52,7 @@
 
 ### その他
 
-* 縁繋ぎは同作最優先（本編登場キャラのみ）。柵越え対応。いずれも厳選。一般も可。なお、中身の確認できない非公開アカウントの場合は確認できるまで保留する。
+* 縁繋ぎは同作最優先（本編登場キャラのみ、同姿不可）。柵越え対応。いずれも厳選。一般も可。なお、中身の確認できない非公開アカウントの場合は確認できるまで保留する。
 * 夢非対応。馴れなれしく話しかけてきたりロルを投げてきたりする一般は、たとえRPアカウントの背後であってもブロック対象。
 * 恋仲や家族などの、RPの枠を超えた特別な関係は一切不要。
 * R行為対応不可。物理的な触れ合いは常識の範囲内で。相手が「鹿目まどか」の場合に限って抱擁や唇同士でのキスなどの愛情表現を行う / 受け入れるが、会話の展開次第。
@@ -80,4 +80,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications were last updated on March 9, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), leader of a doujin circle called DrFdL.
+The above specifications were last updated on March 11, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), leader of a doujin circle called DrFdL.
