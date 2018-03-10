@@ -80,4 +80,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications were last updated on March 11, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), leader of a doujin circle called DrFdL.
+The above specifications were last updated on March 11, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), leader of a doujin circle called “Die rabenschwarzen Flügel der Liebe”.
