@@ -38,7 +38,7 @@
 
 ### 会話について
 
-* 本文の長さは短から長。描写の有無及び長さは状況次第、一人称視点のロルまたは小説文体。細かい心理描写や情景描写を行う場合もあり。
+* 本文の長さは短から長。描写の有無及び長さは状況次第、一人称視点の小説調文体。場合によって心理描写や情景描写も行う。
 * 熟考傾向のため遅筆。
 * 相手の見かけや言動から敬意を払うべき人物であると判断するか、そうしたほうが得策だと考えれば、猫被りモードに限り敬語を使い丁寧に接する。双方の年齢差や学年差は判断の基準にはならない。
 * 初対面時、相手が他作キャラであれば当方の背後がどれほど知悉していようとも相手に関する知識ゼロからのスタート。世界観が互いにかけ離れている場合にはどちらかに合わせられるようになるべく考慮する。
@@ -46,7 +46,7 @@
 * 本来の関係を超えた馴れ合い、おふざけなどの、崩壊に繋がりかねない絡みは固くお断り。
 * 一度の返信が複数ツイートにわたる場合は、連鎖リプライを強く推奨。やり方についてはお問い合わせを。
 * 会話が終了した、返答に困った、あるいは続けるに値しないと判断した時点で花弁を投げて終了を宣言する。
-* 戦闘対応、魔法少女形態または悪魔形態での対戦。三人称一元視点。相手は同作限定で、長文の戦闘ロルに慣れていることと、ルールやマナーを弁えていることが条件。
+* 戦闘対応、魔法少女形態または悪魔形態での対戦。三人称一元視点のロールプレイングテキスト。相手は同作限定で、長文の戦闘ロルに慣れていることと、ルールやマナーを弁えていることが条件。
 * 英語対応、外国人フォロワー向け。また、描写中の使い魔の台詞にはドイツ語を使用。
 * 部屋は常時開放、ノック不要。雑談や相談などお気軽に。
 
@@ -80,4 +80,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications were last updated on March 11, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), leader of a doujin circle called “Die rabenschwarzen Flügel der Liebe”.
+The above specifications were last updated on March 12, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), leader of a doujin circle called “Die rabenschwarzen Flügel der Liebe”.
