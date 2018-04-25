@@ -36,8 +36,9 @@
 
 * 本文の長さは短から長。描写の有無及び長さは状況次第、一人称視点の小説調文体。情景・心理描写あり。
 * 熟考傾向のため遅筆。
-* 相手の見かけや言動から敬意を払うべき人物であると判断するか、そうしたほうが得策だと考えれば、猫被りモードに限り敬語を使い丁寧に接する。双方の年齢差や学年差は判断の基準にはならない。
-* TwitterはRPの手段に過ぎず、キャラ自身が利用・ネット越しに話しているわけではない。そのため、例えば「ここでもよろしく」といった利用が前提のリプライについては、その部分を無視するか、SNS上ではない別のシチュエーションに置き換えて返信する。
+双方の年齢差や学年差は判断の基準にはならない。
+* 当方から会話を始める場合、関係性や投稿時間帯などを十分考慮して最適なシチュエーションを用意する。逆の場合は基本的に相手に任せるが、TwitterはRPの手段に過ぎずキャラ自身が利用・ネット越しに話しているわけではないため、SNS上であることを前提にした会話を持ち掛けられた場合は別の無理のないシチュエーションに置き換えて返信する。
+* 相手の見かけや言動から敬意を払うべき人物であると判断するか、そうしたほうが得策だと考えれば、猫被りモードに限り敬語を使い丁寧に接する。
 * 本来の関係を超えた馴れ合い、おふざけなどの、崩壊に繋がりかねない絡みは固くお断り。
 * 一度の返信が複数ツイートにわたる場合は、連鎖リプライを強く推奨。やり方についてはお問い合わせを。
 * 会話が終了した、返答に困った、あるいは続けるに値しないと判断した時点で花弁を投げて終了を宣言する。
@@ -75,4 +76,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on April 19, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), an amature fiction writer and leader of a certain doujin circle.
+The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on April 25, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), an amature fiction writer and leader of a certain doujin circle.
