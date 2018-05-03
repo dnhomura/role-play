@@ -47,7 +47,7 @@
 
 ### その他
 
-* **縁繋ぎは同作優先（本編登場キャラ、または叛逆後の世界観に対応可能であること。ただし同姿不可）、柵越え対応（知識を持ち合わせている作品のみ）。後述の人選基準に抵触しないこと、並びに文章による描写が可能であることが条件。情景・心理描写のできる方優遇。**  
+* **縁繋ぎは同作優先（叛逆後の世界観に対応可能であること。ただし同姿不可）、柵越え対応（知識を持ち合わせている作品のみ）。後述の人選基準に抵触しないこと、並びに文章による描写が可能であることが条件。情景・心理描写のできる方優遇。**  
 一般も可。なお、中身の確認できない非公開アカウントの場合は確認できるまで保留する。
 * 夢非対応。馴れなれしく話しかけてきたりロルを投げてきたりする一般は、たとえRPアカウントの背後であってもブロック対象。
 * 恋仲や家族などの、RPの枠を超えた特別な関係は一切不要。
@@ -75,4 +75,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on April 25, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), an amature fiction writer and leader of a certain doujin circle.
+The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on May 3, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), an amature fiction writer and leader of a certain doujin circle.
