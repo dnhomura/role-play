@@ -7,7 +7,7 @@
 
 　「劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語」より、悪魔となった暁美ほむらの非公式RP（ロールプレイ、なりきり）アカウント。
 
-* 劇場版ベース、叛逆後設定。続編にも対応予定。なお、本編以外の外伝・スピンオフ作品については非対応であり今後も対応するつもりはないが、会話相手については設定上こちらの世界観に対応可能であればその限りではない。
+* 劇場版ベース、叛逆後設定。続編にも対応予定。なお、本編以外の外伝・スピンオフ作品については非対応であり今後も対応するつもりはないが、会話相手については設定上こちらの世界観に対応可能であればその限りではない。背後が知識を持ち合わせているTVシリーズ・劇場版以外の関連作品は、魔獣編、The different story、おりこ☆マギカ、たると☆マギカ、マギアレコード。
 * ダーク系シリアス志向。二次創作寄り。仮想シチュエーションによる直接対面、ストーリー進行型。思考・心理重視。
 * 演技とその内容についてあらかじめ理解しておいていただくために、叛逆時点からの独自解釈・創作部分を含む経緯、並びに基本方針を以下に示す。  
 　  
@@ -75,4 +75,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on May 3, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), an amature fiction writer and leader of a certain doujin circle.
+The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on May 7, 2018. And the responsibility for the wording of tweets on this RP account lies with [@AnotherNewLaw](https://twitter.com/AnotherNewLaw), an amature fiction writer and leader of a certain doujin circle.
