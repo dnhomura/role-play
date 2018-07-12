@@ -5,7 +5,7 @@
 
 ### 概要
 
-　「劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語」より、悪魔となった暁美ほむらの非公式RP（ロールプレイ、なりきり）アカウント。
+　「劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語」より、悪魔と成り果てた暁美ほむらの非公式RP（ロールプレイ、なりきり）アカウント。
 
 * 劇場版ベース、叛逆後設定。続編にも対応予定。なお、本編以外の外伝・スピンオフ作品については非対応であり今後も対応するつもりはないが、会話相手についてはこちらの世界観に対応可能であればその限りではない。TVシリーズ・劇場版以外で当方が知識を持ち合わせている関連作品は、魔獣編、The different story、おりこ☆マギカ、たると☆マギカ、並びにマギアレコード。
 * ダーク系シリアス志向。二次創作寄り。仮想シチュエーションによる直接対面、ストーリー進行型。思考・心理重視。
@@ -51,7 +51,7 @@
 * 夢非対応。馴れなれしく話しかけてきたりロルを投げてきたりする一般は、たとえRPアカウントの背後であってもブロック対象。
 * 恋仲や家族などの、RPの枠を超えた特別な関係は一切不要。
 * R行為対応不可。物理的な触れ合いは常識の範囲内で。相手が「鹿目まどか」の場合に限って抱擁や唇同士でのキスなどの愛情表現を行う / 受け入れるが、会話の展開次第。
-* アイコン及びその基になった仕様書冒頭のイラストは[cccpo氏](https://www.pixiv.net/member.php?id=667829)作。ヘッダーに使用しているイラストは[撸姬姬氏](https://touch.pixiv.net/member.php?id=3392979)作。ほかの二次創作イラストやデジタルアートを使用することもあるが、すべて事前に作者の許諾を得ているか非商用利用フリーのもの。
+* アイコン及びその基になった仕様書冒頭のイラストは[cccpo氏](https://www.pixiv.net/member.php?id=667829)作。ヘッダーに使用しているイラストは[撸姬姬女士](https://touch.pixiv.net/member.php?id=3392979)作。ほかの二次創作イラストやデジタルアートを使用することもあるが、すべて事前に作者の許諾を得ているか非商用利用フリーのもの。
 * 非公式の二次著作物といえども原作者から禁止されない限り、創作部分については原作と同様に著作権で保護される。**当アカウントのツイート、仕様書冒頭のエピグラフ、及び拙作SSの台詞・描写の、オマージュやパロディの域を逸脱した意図的な盗用・剽窃は厳しく禁じる。無論、許諾は一切与えない。**
 
 ### 同種アカウントの迎え・フォローバック不可、及び絶縁の基準
@@ -74,4 +74,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on June 5, 2018. And the responsibility for the wording of tweets on this RP account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on July 12, 2018. And the responsibility for the wording of tweets on this RP account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
