@@ -23,8 +23,8 @@
 * 一般的なRPアカウントとは違い、世界観に基づく舞台を用意した上で原作と見紛う物語を長期にわたって紡いでいくのが主体のため、取り留めのない日常会話をただ気楽に楽しむのが目的の方には正直不向き。それなりの構成力と描写力も要求される。
 * 相手との関係性やその時々の状況に応じて猫被りから半永続的な敵対応対まで複数の顔を使い分け、また場合によっては心を打ち砕くほどの鬼気迫る言辞や残酷かつ凄惨な描写も辞さないので注意。  
 なお「鹿目まどか」とは不即不離の距離感を保っており、内心がどうであれただのクラスメイトとして扱い、接することにしている。想いで満たされた闇に光を投げかけ、凍てついた心を溶かして友達やそれ以上の関係になれるのか、あるいは最大の敵同士になってしまうのかは双方の思惑と物語の展開次第。
-* **縁繋ぎは同作優先（同姿不可）、柵越え対応（一次創作以外の作品は知識を持ち合わせているもののみ）。後述の人選基準に抵触しないこと、並びに会話目的であれば文章による描写が可能であることが条件。情景・心理描写のできる方、また創作・リレーSSの経験や、脚本・演出の知識を多少なりとも持ち合わせていると思われる方優遇。**  
-一般も可。なお、中身の確認できない非公開アカウントの場合は確認できるまで保留する。
+* **縁繋ぎは同作優先（同姿不可）、柵越え対応（一次創作以外の作品は知識を持ち合わせているもののみ）。後述の人選基準に抵触しないこと、並びに文章による描写が可能であることが条件。情景・心理描写のできる方、また創作・リレーSSの経験や、脚本・演出の知識を多少なりとも持ち合わせていると思われる方優遇。**  
+ROM及び一般も可。なお、中身の確認できない非公開アカウントの場合は確認できるまで保留する。
 
 ### 独り言・モノローグについて
 
@@ -73,4 +73,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on July 26, 2018. And the responsibility for the wording of tweets on this RP account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+The above specifications for [@Devil_Homura](https://twitter.com/Devil_Homura) were last updated on August 5, 2018. And the responsibility for the wording of tweets on this RP account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
