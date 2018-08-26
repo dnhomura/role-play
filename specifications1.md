@@ -1,6 +1,6 @@
 ###### The following specifications are for [@Devil_Homura](https://twitter.com/Devil_Homura). And the responsibility for the wording of tweets on that PBT account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
 
----
+<hr style="border-style:dotted none none none; border-width:1px; border-color:#dddddd;" />
 
 「遠い昔に諦め、忘れたはずの彼への想い。生まれた呪いはやがて、深淵から手を伸ばして獲物を闇の底へと引き摺り込み、身も心も喰らい尽くす。人間ってつくづく哀れな存在よね、美樹さやか。自分の中の魔物にすら打ち勝てずにいるあなたに、この私を倒せるのかしら？  
 「さあ、見せてちょうだい。壮絶なまでに美しい魂の輝きを。そして絶望と無力感とを味わいながら、進んで選んだ運命に身を委ねるといい。いつか世界が崩れ去り、神にこの首を差し出す時まで、あなたのことは憶えておいてあげる」
