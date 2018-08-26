@@ -1,4 +1,4 @@
-###### The following specifications are for [@Devil_Homura](https://twitter.com/Devil_Homura). And the responsibility for the wording of tweets on that PBT account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+The following specifications are for [@Devil_Homura](https://twitter.com/Devil_Homura). And the responsibility for the wording of tweets on that PBT account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
 
 ---
 
