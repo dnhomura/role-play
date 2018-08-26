@@ -1,4 +1,4 @@
-###### Note: The following specifications are for [@Devil_Homura](https://twitter.com/Devil_Homura) and in Japanese version only now. And the responsibility for the wording of tweets on that RP account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+###### Note: The following specifications are for [@Devil_Homura](https://twitter.com/Devil_Homura) and Japanese version only now. And the responsibility for the wording of tweets on that RP account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
 　  
 
 「遠い昔に諦め、忘れたはずの彼への想い。生まれた呪いはやがて、深淵から手を伸ばして獲物を闇の底へと引き摺り込み、身も心も喰らい尽くす。人間ってつくづく哀れな存在よね、美樹さやか。自分の中の魔物にすら打ち勝てずにいるあなたに、この私を倒せるのかしら？  
