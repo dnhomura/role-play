@@ -1,4 +1,4 @@
-###### Note: Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura) which has been continued since October 26, 2013; however, there is only Japanese version available. The responsibility for the contents of all tweets on that account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+###### Description: Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura) which has been continued since October 26, 2013; however, there is only one version available for Japanese speakers. The responsibility for the contents of all tweets on that account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
 　  
 
 「遠い昔に諦め、忘れたはずの彼への想い。生まれた呪いはやがて、深淵から手を伸ばして獲物を闇の底へと引き摺り込み、身も心も喰らい尽くす。人間ってつくづく哀れな存在よね、美樹さやか。自分の中の魔物にすら打ち勝てずにいるあなたに、この私を倒せるのかしら？  
@@ -47,7 +47,7 @@
 * 一度の返信が複数ツイートにわたる場合は、連鎖リプライを強く推奨。やり方についてはお問い合わせを。
 * 会話が終了した、返答に困った、あるいは続けるに値しないと判断した時点で花弁を投げて終了を宣言する。
 * 戦闘対応、魔法少女形態または悪魔形態での対戦。三人称一元視点。相手は同作限定で、長文の戦闘ロルに慣れていることと、ルールやマナーを弁えていることが条件。
-* 英語対応、外国人フォロワー向け。また、描写中の使い魔の台詞にはドイツ語を使用。
+* 基本的に日本語話者向けだが、英語を母国語または第二母国語とする方にも英語での対応が可能。また、描写中の使い魔の台詞にはドイツ語を使用。
 * 部屋は常時開放、ノック不要。雑談や相談などお気軽に。
 
 ### その他
