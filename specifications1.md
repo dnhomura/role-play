@@ -1,4 +1,4 @@
-###### Description: Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura) which has been continued since October 26, 2013; however, there is now only Japanese version available. The responsibility for the contents of all tweets on that account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+###### Description: Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura) which was started on October 26, 2013 and was relocated to present user ID on March 12, 2014; however, there is now only Japanese version available. The responsibility for the contents of all tweets on that account lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
 　  
 
 「遠い昔に諦め、忘れたはずの彼への想い。生まれた呪いはやがて、深淵から手を伸ばして獲物を闇の底へと引き摺り込み、身も心も喰らい尽くす。人間ってつくづく哀れな存在よね、美樹さやか。自分の中の魔物にすら打ち勝てずにいるあなたに、この私を倒せるのかしら？  
@@ -8,7 +8,7 @@
 
 ### 概要
 
-　「劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語」より、悪魔と成り果てた暁美ほむらの非公式PBTアカウント。当方の管理・運用するRP専用フォーラム（Closed PBF）からの派生で2013年10月26日開始。翌年3月12日に現在のユーザーIDに移転、ユーザー名を継承した。
+　「劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語」より、悪魔と成り果てた暁美ほむらの非公式PBTアカウント。当方の管理・運用するRP専用フォーラム（Closed PBF）からの派生。
 
 * 基本仕様。
     * 劇場版ベース、叛逆後設定。二次創作寄り。
