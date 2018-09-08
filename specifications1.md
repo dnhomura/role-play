@@ -13,7 +13,7 @@
 * 基本仕様。
     * 劇場版ベース、叛逆後設定。二次創作寄り。
     * ダーク系シリアス志向。
-    * 抒情的モノローグ（ロルに頼らない行動描写込みの散文形式）中心で、挨拶や日常系の独り言などのキャラのイメージにそぐわないツイートは一切しない。
+    * 抒情的モノローグ（ロルに頼らない行動描写込みの散文形式、2018年9月9日よりスレッド機能を利用）中心。挨拶や日常系の独り言などの、キャラのイメージにそぐわないツイートは一切しない。
     * 会話はネット越し前提ではなく、相手が同作・他作の別にかかわらずすべて仮想シチュエーションによる擬似直接対面。
     * キャラとしての雰囲気だけでなく、世界観の表現、また会話においてはドラマ性も重要視。
 * 叛逆時点からの独自解釈・創作部分を含む経緯、並びに基本方針を以下に示す。  
@@ -80,4 +80,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-This document was last updated on September 4, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+This document was last updated on September 9, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
