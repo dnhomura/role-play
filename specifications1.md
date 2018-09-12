@@ -65,7 +65,7 @@
 * 崩壊勢、ネタ勢、目に余る背後透過、趣味垢兼用、CC・シャッフル・複数キャラ共存、病み、出会い厨、原作での年齢指定の如何にかかわらずR行為に対応しているアカウントなど。また、背後が未成年者。
 * 異性化、擬人化あるいはその逆、関係性の改変などをはじめとする、原作の世界観・設定を遙かに逸脱する特殊設定。
 * 空中会話、引用リツイート会話、非公式リツイート連鎖の常習。
-* 当て字、絵文字や顔文字、ネットスラング（特に自己ツッコミ “←” や自己冷笑 “()” ）などの乱用。
+* 特有の当て字、絵文字（名前の代替として使う程度なら構わない）や顔文字、ネットスラング（特に自己ツッコミ “←” や自己冷笑 “()” ）などの乱用。
 * 構って系ハッシュタグ、CCするキャラやなりきれているかどうかなどをフォロワーに問うアンケート、原作と無関係な企画などの乱発。並びにPeing、ASKfm、マシュマロ、ほめて箱、お題箱、ラブレターなどの利用。
 * 誤字脱字や誤用、怪しげな句読法、言語的に意味の通らない投稿・リプライの頻発。
 * さしたる理由もなくリプ蹴りを繰り返す行為。
@@ -80,4 +80,4 @@
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
 ---
-This document was last updated on September 9, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+This document was last updated on September 12, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
