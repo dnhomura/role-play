@@ -49,7 +49,7 @@
 
 ### 縁繋ぎについて
 
-* 大抵の同種アカウントとは異なり、キャラ自身がTwitterを利用しているわけではない。原作での立ち位置に鑑みて、自分からわざわざ他者との交流を図ろうとするとは到底考えられず、それでも簡便性を重視するあまり同設定を安易に設ければその時点でキャラ崩壊となってしまうからだ。ゆえに立つべき舞台は、SNSというRPの手段が形を変えた幻想の社交場ではなく、あくまで「原作と同じ世界観・法則・制約に支配された仮想世界」である。チャット感覚のお喋りをただ気楽に楽しみたい方との相性は、演技方針自体も違うために正直あまり良くないと思われる。  
+* 大抵の同種アカウントとは異なり、キャラ自身がTwitterを利用しているわけではない。原作での立ち位置に鑑みて、自分からわざわざ他者との交流を図ろうとするとは到底考えられず、それでも簡便性を重視するあまり同設定を安易に設ければその時点でキャラ崩壊となってしまうからだ。ゆえに立つべき舞台は、SNSというRPの手段が形を変えたにすぎない幻想の社交場ではなく、あくまで「原作と同じ世界観・法則・制約に支配された仮想世界」である。チャット感覚のお喋りをただ気楽に楽しみたい方との相性は、演技方針自体も違うために正直あまり良くないと思われる。  
 単なるキャラ同士のたわいのない会話ではなく、原作と見紛う物語を当方と共にじっくりと時間をかけて紡いでみたい方。また、背後の行動・事情もリアルの普遍的でない事象も一切持ち込まず、描写によって構築された共有の仮想世界に意識を置きながらキャラ本人として振る舞い、心理や心情までも可能な限り原作に忠実に表現できる、完なり志向の中〜上級者の方向き。
 * **縁繋ぎは同作最優先。同姿は原則不可。後述の人選基準に抵触しないこと、並びに文章による描写が可能であること（内面描写は必須ではなく三人称視点でも構わない）が条件。**  
 同作であっても本編以外の世界観の異なる外伝・スピンオフ作品には非対応だが、キャラのレベルでこちらの世界観に対応可能であればその限りではない。
@@ -92,5 +92,4 @@
 　  
 ---
 　  
-
-This document was last updated on September 26, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+This document was last updated on September 28, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
