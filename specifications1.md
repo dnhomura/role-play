@@ -1,5 +1,4 @@
 ###### Description for English speaker: Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura) which was started on October 26, 2013 and was relocated to present user ID (2384******) on March 12, 2014. Although there is now only Japanese version available, it is possible to have a conversation with you in English.
-
 　  
 ---
 　  
@@ -88,6 +87,8 @@
 * 背後の持論の投稿、議論展開（政治・社会批判、RP論など）。
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
+
+######
 　  
 ---
 　  
