@@ -1,7 +1,7 @@
 ###### Description for English speaker: Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura) which was started on October 26, 2013 and was relocated to present user ID (2384******) on March 12, 2014. Although there is now only Japanese version available, it is possible to have a conversation with you in English.
-
+　  
 ---
-  
+　  
 
 「遠い昔に諦め、忘れたはずの彼への想い。生まれた呪いはやがて、深淵から手を伸ばして獲物を闇の底へと引き摺り込み、身も心も喰らい尽くす。人間ってつくづく哀れな存在よね、美樹さやか。自分の中の魔物にすら打ち勝てずにいるあなたに、この私を倒せるのかしら？  
 「さあ、見せてちょうだい。壮絶なまでに美しい魂の輝きを。そして絶望と無力感とを味わいながら、進んで選んだ運命に身を委ねるといい。いつか世界が崩れ去り、神にこの首を差し出す時まで、あなたのことは憶えておいてあげる」
@@ -87,5 +87,8 @@
 * 背後の持論の投稿、議論展開（政治・社会批判、RP論など）。
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
+　  
 ---
+　  
+
 This document was last updated on September 26, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
