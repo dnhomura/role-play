@@ -1,6 +1,6 @@
 |Description for English speaker: |
 |:---|
-|Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura) which was started on October 26, 2013 and was relocated to present user ID on March 12, 2014. Although there is now only Japanese version available, it is possible to have a conversation with you in English. |
+|Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura), as you might already know, which was started on October 26, 2013 and was relocated to present user ID on March 12, 2014. Although there is now only Japanese version available, it is possible to have a conversation with you in English. |
 
 　  
 
@@ -99,3 +99,9 @@
 * 背後の持論の投稿、議論展開（政治・社会批判、RP論など）。
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 * 当方とは反りが合わないと判断した場合。また、当方の世界観とあまりにもかけ離れていて擦り合わせが難しい場合。
+
+######
+　  
+---
+　  
+This document was last updated on October 8, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
