@@ -1,6 +1,6 @@
 |Description for English speaker: |
 |:---|
-|Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura), as you might already know, which was started on October 26, 2013 before being relocated to present user ID (not screen name). Although there is now only Japanese version available, it is possible to have a conversation with you in English.|
+|Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura), as you might already know, which has been started on October 26, 2013 before being relocated to present user ID (not screen name). Although there is now only Japanese version available, it is possible to have a conversation with you in English.|
 
 　  
 
