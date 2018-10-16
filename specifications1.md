@@ -18,7 +18,7 @@
 
 1. [基本仕様](#user%2dcontent%2d%e5%9f%ba%e6%9c%ac%e4%bb%95%e6%a7%98)
 2. [会話について](#user%2dcontent%2d%e4%bc%9a%e8%a9%b1%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6)
-3. [相互フォローについて，要件](#user%2dcontent%2d%e7%9b%b8%e4%ba%92%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%ef%bc%8c%e8%a6%81%e4%bb%b6)
+3. [相互フォローについて，要件](#user%2dcontent%2d%e7%9b%b8%e4%ba%92%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e8%a6%81%e4%bb%b6)
 4. [その他](#user%2dcontent%2d%e3%81%9d%e3%81%ae%e4%bb%96)
 5. [人選基準](#user%2dcontent%2d%e4%ba%ba%e9%81%b8%e5%9f%ba%e6%ba%96)
 
