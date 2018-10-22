@@ -64,6 +64,7 @@
 * **同作本編キャラ最優先。同顔は不可。後述の人選基準に抵触しないこと、並びに文章による描写が可能であること（内面描写は必須ではなく三人称視点でも構わない）が条件。**  
 本編以外の世界観の異なる外伝・スピンオフ作品には非対応だが、キャラのレベルでこちらの世界観に対応可能であればその限りではない。
 * 柵越えも可。一次創作以外の作品は当方が知悉しているもののみ。可能な限り相手の世界観と折り合いをつけるようにするが、無論、地球上で現代の人間世界を舞台とした作品に限る。時間的な隔たりが大きいものや異世界ものなどは不可。
+* 言うまでもなく、要件を満たしているからといって必ずしも繋がるとは限らない。また迎え等で当方から繋がりに行く場合、最初の文章（舞台説明を含む長文）を考えるために多少の時間が必要となるのであらかじめご了承を。
 * 以下の方を優遇。
     * 情景やキャラの内面を一人称視点で細部にわたるまで描写できる方。
     * PBB、リレーSS、また小説などの創作の経験のある方。
@@ -105,4 +106,4 @@
 　  
 ---
 　  
-This document was last updated on October 17, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+This document was last updated on October 22, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
