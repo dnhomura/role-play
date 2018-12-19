@@ -1,6 +1,6 @@
 |Description for English speaker: |
 |:---|
-|Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura), as you might already know, which has been started on October 26, 2013 before being relocated to present user ID (not screen name). Although there is now only Japanese version available, it is possible to have a conversation with you in English.|
+|Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura), as you might already know and have talked with me, which has been started on October 26, 2013 before being relocated to present user ID (not screen name). Although there is now only Japanese version available, it is possible to have a conversation with you in English.|
 
 　  
 
@@ -109,4 +109,4 @@
 　  
 ---
 　  
-This document was last updated on November 11, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+This document was last updated on December 19, 2018. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
