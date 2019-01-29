@@ -43,7 +43,7 @@
 
 ### 会話について
 
-* 本文の長さは短から長。描写の有無及び長さは状況次第、小説調文体、一人称視点（内面重視）と三人称視点（神視点での細密な情景描写）の組み合わせ。
+* 本文の長さは短から長。描写の有無及び長さは状況次第、小説調文体、一人称視点（内面重視）と三人称視点（神視点での細密な情景描写重視）の混合。会話のブロックごとに使い分ける変則的手法。
 * 熟考傾向のため遅筆。
 * 当方から会話を始める場合、関係性、季節や開始時間帯などを十分考慮して最適な初期シーン・初期シチュエーションを用意する。逆の場合は基本的に相手に任せるが、用意されなかった、あるいは依頼があった場合にも同様にする。また相手の考案した設定に不備がある場合は当方からの返信時に追加することもある（最低限、場所と時間の設定が必要）。開始前の相談歓迎。
 * 相手との関係性やその時々の状況に応じて猫被りから半永続的な敵対応対まで複数の顔を使い分け、また悪魔形態を採った場合には相手がたとえ誰であろうとも「世界を混沌へと導いた魔王」として対峙する。心を打ち砕くほどの鬼気迫る言辞や残酷かつ凄惨な描写も辞さないので注意。  
@@ -109,4 +109,4 @@
 　  
 ---
 　  
-This document was last updated on January 20, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+This document was last updated on January 29, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
