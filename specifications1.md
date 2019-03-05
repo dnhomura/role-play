@@ -1,9 +1,3 @@
-|Description for English speaker: |
-|:---|
-|Below are the specifications for a RP account named [@Devil_Homura](https://twitter.com/Devil_Homura), as you might already know, which has been started on October 26, 2013 before being relocated to present user ID (not screen name). Although there is now only Japanese version available, it is obviously possible to have a conversation with you in English.|
-
-　  
-
 「遠い昔に諦め、忘れたはずの彼への想い。生まれた呪いはやがて、深淵から手を伸ばして獲物を闇の底へと引き摺り込み、身も心も喰らい尽くす。人間ってつくづく哀れな存在よね、美樹さやか。自分の中の魔物にすら打ち勝てずにいるあなたに、この私を倒せるのかしら？  
 「さあ、見せてちょうだい。壮絶なまでに美しい魂の輝きを。そして絶望と無力感とを味わいながら、進んで選んだ運命に身を委ねるといい。いつか世界が崩れ去り、神にこの首を差し出す時まで、あなたのことは憶えておいてあげる」
 
@@ -13,6 +7,16 @@
 
 　「劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語」より、悪魔と成り果てた暁美ほむらの非公式PBT（RP、なりきり）アカウント。本文書はその仕様を詳細に記したものである。  
 　なお、TwitterやLINE以外の、例えばRP専用掲示板（PBB）などで経験を積み重ねてきた方でないと当方との交流は難しい部分もあり、また相互フォローの要件及び人選基準も非常に厳しいものであるため、もしも自分には合わないと感じたら直ちにブラウザバックすることを推奨する。
+
+<details>
+<summary>特に適している方</summary>
+<pre>
+<code>
+　単なるキャラ同士のたわいのない会話ではなく、原作と見紛う物語を当方と共にじっくりと時間をかけて紡いでみたい方。また、背後の行動・事情もリアルの普遍的でない事象も一切持ち込まず、描写によって構築された共有の仮想世界に意識を置きながらキャラ本人として振る舞い、心理や心情までも可能な限り原作に忠実に表現できる、完なり志向の中〜上級者の方向き。
+</code>
+</pre>
+</details>
+
 
 ### 目次
 
@@ -105,8 +109,8 @@
 * 背後の持論の投稿、議論展開（政治・社会批判、RP論など）。
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
 
-###### 
-　  
+
+
 ---
-　  
-This document was last updated on March 5, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
+
+This document was last updated on March 6, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature fiction writer and leader of a certain doujin circle.
