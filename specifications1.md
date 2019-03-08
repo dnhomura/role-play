@@ -2,7 +2,7 @@
 「さあ、見せてちょうだい。壮絶なまでに美しい魂の輝きを。そして絶望と無力感とを味わいながら、進んで選んだ運命に身を委ねるといい。いつか世界が崩れ去り、神にこの首を差し出す時まで、あなたのことは憶えておいてあげる」
 
 <p>
-<img src="https://rp.zweivogel.org/images/Homu_by_cccpo_resized.png" width="408" height="600" />
+<img src="https://rp.zweivogel.org/images/Homu_by_cccpo_resized.png" width="408">
 </p>
 
 ### 概要
