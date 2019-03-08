@@ -3,6 +3,8 @@
 
 ![](https://rp.zweivogel.org/images/Homu_by_cccpo_resized.png)
 
+a
+
 ### 概要
 
 　「劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語」より、悪魔と成り果てた暁美ほむらの非公式PBT（RP、なりきり）アカウント。本文書はその仕様を詳細に記したものである。  
