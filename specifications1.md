@@ -75,8 +75,8 @@ curl -X PURGE camoのURI
 ### 相互フォロー、並びにその要件について
 
 * **同作本編キャラ最優先。同顔は不可。後述の人選基準に抵触しないこと、並びに文章による描写が可能であることが条件。**  
-本編以外の世界観の異なる外伝・スピンオフ作品には非対応だが、キャラのレベルでこちらの世界観に対応可能であればその限りではない。ただし当方の背後が本編至上主義者であるため、その本編を辱しめ貶めて止まない作品、特に**マギアレコードに初出のキャラは不可。**
-* 柵越えも可。相互フォローした後は可能な限り相手の世界観や設定と折り合いをつけて会話するようにする。**要件については、同作本編キャラと同じものに加えて以下のものをすべて満たしていること。**
+世界観も非常に重視しているため、叛逆以前、ましてや本編以外の世界観の異なる外伝・スピンオフ作品には対応不可。
+* 柵越えも一応は可だが、世界観の擦り合わせが難しい場合には不可。基本的な要件については、同作本編キャラと同じものに加えて以下のものをすべて満たしていること。
     * 一次創作以外の版権作品は当方が知悉しているもの、あるいは未見であっても興味の持てるものであること。
     * セカイ系である当方の原作と掛け離れたジャンル（物語性のない空気系や、不条理系、ギャグ系など）でないこと。
     * 対面による会話あるいは意思疎通が物理的に可能であること。時間的隔絶（遠い過去あるいは未来）、空間的隔絶（地球上ではない他の惑星など）、時空的もしくは次元的隔絶（異世界、三次元を含む異次元など）がある場合などは不可。
@@ -120,4 +120,4 @@ curl -X PURGE camoのURI
 
 ---
 
-This document was last updated on March 13, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature leterature writer and leader of a certain doujin circle.
+This document was last updated on March 16, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature leterature writer and leader of a certain doujin circle.
