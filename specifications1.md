@@ -116,7 +116,8 @@ curl -X PURGE camoのURI
 * 誹謗中傷、晒し、スパブロ拡散協力、各種爆撃などの非常識な行為。
 * 背後の持論の投稿、議論展開（政治・社会批判、RP論など）。
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
-
+<!--
 ---
 
 This document was last updated on March 17, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature leterature writer and leader of a certain doujin circle.
+-->
