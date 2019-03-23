@@ -53,7 +53,7 @@ curl -X PURGE camoのURI
     * 演技方針  
 　想いと追憶の狭間に心を沈め、近くで、また彼方からまどかのことを見守りながら、自分自身ではなく「彼女が幸せになれる世界」をどんな手段を使ってでも維持していこうとする。その姿、感情の機微・葛藤や、まだ残っている人間らしさといったものを、言動や行動の基盤となるモノローグを核として他者との様々なやり取り──猫を被った当たり障りのない会話から命や魂を懸けた殺し合いまで、緊迫感も動きもあるストーリーを長期にわたって紡いでいくことで描いていく。  
 　  
-* 独自は抒情的モノローグ（ロルに頼らない行動描写込みの散文形式）中心。キャラのイメージにそぐわない挨拶ツイートや日常系の独り言などは皆無。
+* 独白は抒情的モノローグ（ロルに頼らない行動描写込みの散文形式）中心。キャラのイメージにそぐわない挨拶ツイートや日常系の独り言などは皆無。
 * 台詞回しによって雰囲気を醸し出すだけでなく、感情豊かな内面描写、臨場感溢れる情景描写、また暗黙のうちに認識されているものとして軽視されがちな「原作の世界観」の表現も積極的に行う。
 * 会話はよくある「双方のキャラ自身がTwitterを利用して通信している」前提ではなく、相手が同作か否かにかかわらずすべて「**仮想のシーンとシチュエーションによる擬似直接対面形式**」で行う。リアルタイム性よりもストーリー性やドラマ性を遙かに重要視している。
 * 完璧を追究していく姿勢ではあるものの、後日譚という性質上想像し創作せざるを得なかった部分があるため、特に心理・心情面において常に最適なものとなるよう随時調整。
@@ -118,5 +118,5 @@ curl -X PURGE camoのURI
 <!--
 ---
 
-This document was last updated on March 21, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature leterature writer and leader of a certain doujin circle.
+This document was last updated on March 23, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature leterature writer and leader of a certain doujin circle.
 -->
