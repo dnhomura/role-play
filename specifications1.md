@@ -65,7 +65,7 @@ curl -X PURGE camoのURI
 * 会話が終了した、返答に困った、あるいは続けるに値しないと判断した時点で花弁を投げて終了を宣言する。
 * 戦闘対応、魔法少女形態または悪魔形態での対戦。相手は同作限定で、長文の戦闘ロルに慣れていることと、ルールやマナーを弁えていることが条件。
 * 基本的に日本語話者向けだが、英語を母語または第二言語とする外国人の方には英語で応対する。また、外国人キャラとの英語を交えた会話（台詞。描写は日本語で）も可能、応相談。
-* 部屋は常時開放、ノック不要。雑談や相談などお気軽に。
+* 部屋は常時施錠、来室禁止。演技以外でどうしてもやり取りがしたい場合は背後のアカウントまで。
 
 ### 相互フォロー、並びにその要件について
 
@@ -112,8 +112,7 @@ curl -X PURGE camoのURI
 * 誹謗中傷、晒し、スパブロ拡散協力、各種爆撃などの非常識な行為。
 * 背後の持論の投稿、議論展開（政治・社会批判、RP論など）。
 * その他、そのキャラらしくない、また原作に対する敬意をまったく感じられない言動や振る舞い。
-<!--
+
 ---
 
-This document was last updated on March 27, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature leterature writer and leader of a certain doujin circle.
--->
+This document was last updated on April 24, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature leterature writer and leader of a certain doujin circle.
