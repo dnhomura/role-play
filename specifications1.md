@@ -115,4 +115,4 @@ curl -X PURGE camoのURI
 
 ---
 
-This document was last updated on April 24, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), a female amature leterature writer and leader of a certain doujin circle.
+This document was last updated on April 24, 2019. The responsibility for the contents of all tweets on @Devil_Homura lies with [@HK_DrFdL](https://twitter.com/HK_DrFdL), female amature leterature writer and leader of a certain doujin circle.
